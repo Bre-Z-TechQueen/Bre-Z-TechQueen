@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bre-Z-TechQueen
-- 👀 I’m interested in learning how to code. 
-- 🌱 I’m currently learning how to build a website and learning python.
-- 💞️ I’m looking to collaborate on my Portfoilo Website. 
+- 👋🏾 Hi, I’m @Bre-Z-TechQueen
+- 👀 I’m interested in Business Analytics and how to code. 
+- 🌱 I’m currently building a website to disply my projects.
+- 💞️ I’m looking to collaborating on my Projects.
 - 📫 How to reach me from my email briannaf3598@gmail.com
 
 <!---
